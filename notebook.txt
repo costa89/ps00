@@ -13,5 +13,10 @@ Date   Who           Start  Stop  Interruptions  Question  TimeOnTask  Comments
 9/25   Wang Jinpeng   2:30  2:50              0         6          20  finish ex 6
 9/25   Wang Jinpeng   2:51  2:55              0         7           4  finish ex 7
 9/25   Wang Jinpeng   2:56  3:04              0         8           8  finish ex 8
-9/25   Wang Jinpeng   3:04  3:21              0         9           17 finish ex 9
+9/25   Wang Jinpeng   3:04  3:21              0         9          17  finish ex 9
 ============committing to git: 9/25 3:22 ============
+9/25   Wang Jinpeng   3:22  3:35              0        10          13  finish ex 10
+============committing to git: 9/25 3:40 ============
+
+Total Time On Exercise (minutes)                 124
+TOTE (hours and tenths)                         2.07 

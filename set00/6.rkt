@@ -15,6 +15,3 @@
                  (* 4
                     (* a c)))))
      (* 2 a)))
-
-(quadratic-root 1 -2 1)
-(quadratic-root 1 1 -6)
