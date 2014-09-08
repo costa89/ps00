@@ -1,3 +1,5 @@
 | Date | Who          | Start | Stop | Interruptions | Question | TimeOnTask | Comments               |
 | 9/25 | Wang Jinpeng |  1:12 | 1:30 |             0 |        1 |         18 | finish half exercise 1 |
 ============committing to git: 9/25 1:30 ============
+| 9/25 | Wang Jinpeng |  1:35 | 1:39 |             0 |        1 |          4 | finish all exercise 1  |
+============committing to git: 9/25 1:41 ============
