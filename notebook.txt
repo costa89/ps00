@@ -1,10 +1,12 @@
- Date   Who           Start  Stop  Interruptions  Question  TimeOnTask  Comments               
- 9/25   Wang Jinpeng   1:12  1:30              0         1          18  finish half exercise 1 
+Date   Who           Start  Stop  Interruptions  Question  TimeOnTask  Comments               
+9/25   Wang Jinpeng   1:12  1:30              0         1          18  finish half exercise 1 
 ============committing to git: 9/25 1:30 ============
- 9/25   Wang Jinpeng   1:35  1:39              0         1           4  finish all exercise 1  
+9/25   Wang Jinpeng   1:35  1:39              0         1           4  finish all exercise 1  
 ============committing to git: 9/25 1:41 ============
- 9/25   Wang Jinpeng   1:45  1:49              0         2           4  finish exercise 2      
+9/25   Wang Jinpeng   1:45  1:49              0         2           4  finish exercise 2      
 ============committing to git: 9/25 1:49 ============
- 9/25   Wang Jinpeng   1:50  2:01              0         3          11  finish exercise 3
+9/25   Wang Jinpeng   1:50  2:01              0         3          11  finish exercise 3
 ============committing to git: 9/25 2:03 ============
-
+9/25   Wang Jinpeng   2:02  2:22              0         4          20  finish ex 4
+9/25   Wang Jinpeng   2:23  2:29              0         5           5  finish ex 5
+============committing to git: 9/25 2:30 ============
